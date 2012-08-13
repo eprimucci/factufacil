@@ -4,3 +4,4 @@ app/tmp/*
 app/config/database.php
 !empty
 /web/nbproject/private/private.properties
+web/nbproject/private/private.xml
